@@ -1,1 +1,1 @@
-typealias Boolean = __Boolean
+typealias T = __Boolean
